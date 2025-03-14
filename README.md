@@ -24,6 +24,6 @@ Here are some of the projects featured on my portfolio website:
 
 ## Contact
 
-If you would like to get in touch, please feel free to reach out via [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/brijesh-saini-5420b924b)) or [Email](mailto:sainibrijesh058@gmail.com).
+If you would like to get in touch, please feel free to reach out via [LinkedIn: [https://www.linkedin.com/in/brijesh-saini-5420b924b](https://www.linkedin.com/in/brijesh-saini-5420b924b) or [Email](mailto:sainibrijesh058@gmail.com).
 
 Thank you for visiting my portfolio website!
